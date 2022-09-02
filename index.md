@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Jagannath Prabhakaran's First CS 193 Homework
+
+
+### Favorite things about CS 193
+- Professors/TA's are great in CS 193!
+- Concepts we learn are pretty cool!
+- I enjoy how it's not taught like a traditional solely lecture based class
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
