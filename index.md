@@ -2,7 +2,7 @@
 
 
 ### Favorite things about CS 193
-- Professors/TA's are great in CS 193!
+- Instructors/TA's are great in CS 193!
 - Concepts we learn are pretty cool!
 - I enjoy how it's not taught like a traditional solely lecture based class
 
